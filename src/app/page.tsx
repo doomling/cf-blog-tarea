@@ -8,6 +8,7 @@ interface Article {
   content: string;
 }
 
+// Mock Data -
 const articlesData: Article[] = [
   { id: 1, title: "Primer artículo", content: "Lorem ipsum dolor sit amet." },
   { id: 2, title: "Segundo artículo", content: "Lorem ipsum dolor sit amet." },

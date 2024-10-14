@@ -12,7 +12,6 @@ interface PageParams {
 }
 
 // Data mock - idealmente viene de una API
-
 const articlesData: Article[] = [
   { id: "1", title: "Primer artículo", content: "Lorem ipsum dolor sit amet." },
   {
